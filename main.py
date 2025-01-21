@@ -1,6 +1,6 @@
 #Definování matice
 matrix = [[1, 2, 3],  #První řádek
-        [4, 5, 6],  #Druhý řádek
+        [4, 105, 6],  #Druhý řádek
         [7, 8, 9],] #Třetí řádek
 
 #Funkce pro vytisknutí do konzole
